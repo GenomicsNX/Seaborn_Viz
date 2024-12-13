@@ -6,6 +6,9 @@
 
 ### Run the code in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/Seaborn/master)
 
+### Video: https://www.youtube.com/watch?v=xMT8GJew-lo&ab_channel=BrunoGon%C3%A7alves
+
+
 Seaborn is a visualization package that builds on top of matplotlib and pandas to provides a simple, functional, interface that is capable of generating sophisticated and beautiful visualizations. In this lecture we will provide a systematic overview of the way in which seaborn is structured, how it can be used for data exploration and to produce publication ready figures and visualizations.
 
 # Outline
